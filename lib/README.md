@@ -4,3 +4,6 @@ In this section we've SDK for developers integrate Hypercore in your application
 
 - Rust
 - Javascript
+- Klotin
+- Typescript
+- Swift
