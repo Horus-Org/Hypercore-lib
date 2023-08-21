@@ -11,3 +11,12 @@ The Hypercore Protocol is an open-source, peer-to-peer technology stack that all
 - Javascript
 - Rust
 - Dart
+
+
+## Roadmap
+
+- [ ] Hyperswarm
+- [ ] Hypercore
+- [ ] RPC
+- [ ] SDK
+- [ ] Alpha Software
