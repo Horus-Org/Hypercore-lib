@@ -1,4 +1,4 @@
-# Hypercore-lib
+# Hypercore Library
 
 Library for Hypercore
 
