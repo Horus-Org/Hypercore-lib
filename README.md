@@ -1,6 +1,9 @@
-# Hypercore Library
+# Hypercore Library 
 
 Library for Hypercore
+
+**Contributions are welcome**
+
 
 ## What is Hypercore?
 
