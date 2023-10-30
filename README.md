@@ -23,3 +23,4 @@ The Hypercore Protocol is an open-source, peer-to-peer technology stack that all
 - [ ] RPC
 - [ ] SDK
 - [ ] Alpha Software
+- [ ] Clear documentation
