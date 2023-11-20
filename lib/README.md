@@ -7,3 +7,9 @@ In this section we've SDK for developers integrate Hypercore in your application
 - Klotin
 - Typescript
 - Swift
+
+## Features
+
+- P2P RPC
+- Hypercore
+- Hyperswarm
