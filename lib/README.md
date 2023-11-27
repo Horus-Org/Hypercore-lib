@@ -13,3 +13,4 @@ In this section we've SDK for developers integrate Hypercore in your application
 - P2P RPC
 - Hypercore
 - Hyperswarm
+- Hyperdrive
