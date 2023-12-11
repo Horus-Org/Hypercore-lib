@@ -14,3 +14,8 @@ In this section we've SDK for developers integrate Hypercore in your application
 - Hypercore
 - Hyperswarm
 - Hyperdrive
+
+## Roadmap
+
+- [ ] Initial design
+- [ ] Initial SDK
