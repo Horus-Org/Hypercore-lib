@@ -1,3 +1,4 @@
-## Hypercore Library Releases
+## Hypercore Library Releases and Development
+
 
 TBD
