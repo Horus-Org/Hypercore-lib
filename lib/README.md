@@ -19,3 +19,4 @@ In this section we've SDK for developers integrate Hypercore in your application
 
 - [ ] Initial design
 - [ ] Initial SDK
+- [ ] Initial Alpha software
